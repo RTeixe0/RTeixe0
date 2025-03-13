@@ -30,6 +30,8 @@
 
 🛠️ *Mais projetos em breve...*  
 
+
+<!-- 
 ---
 
 ### 📊 Meu GitHub em Números  
@@ -48,7 +50,7 @@
   <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RTeixe0&theme=tokyonight">
 </p>
 
-
+-->
 ---
 
 ### 📫 **Onde me encontrar**  
