@@ -16,7 +16,7 @@
 ### 🛠️ **Tecnologias que estudo & pratico**  
 💡 Explorando diferentes áreas da programação, incluindo:  
 
-- ⚡ **Linguagens**: JavaScript, PHP, Python  
+- ⚡ **Linguagens**: JavaScript, PHP, Python, C  
 - 🌍 **Web**: HTML, CSS  
 - 🔥 **IoT & Automação**: ESP32, Arduino  
 - 🛠️ **Outros**: Git & GitHub  
@@ -37,6 +37,7 @@
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=RTeixe0&show_icons=true&theme=tokyonight">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=RTeixe0&theme=tokyonight">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RTeixe0&layout=compact&theme=tokyonight">
 </p>
 
 ---
