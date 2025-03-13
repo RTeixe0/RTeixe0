@@ -32,13 +32,22 @@
 
 ---
 
-### 📊 **Meu GitHub em Números**  
+### 📊 Meu GitHub em Números  
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=RTeixe0&show_icons=true&theme=tokyonight">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=RTeixe0&show_icons=true&theme=tokyonight&count_private=true">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=RTeixe0&theme=tokyonight">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RTeixe0&layout=compact&theme=tokyonight">
 </p>
+
+<p align="center">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RTeixe0&theme=tokyonight">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RTeixe0&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RTeixe0&theme=tokyonight">
+</p>
+
 
 ---
 
