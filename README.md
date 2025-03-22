@@ -25,10 +25,12 @@
 
 ### 🚀 **Projetos em Destaque**  
 
-📌 **[Smart Grow ESP32](https://github.com/RTeixe0/Smart-Grow_ESP32)**  
+📌 **[Smart Grow ESP32](https://github.com/RTeixe0/Smart-Grow_ESP32)**
 🔹 **Minha estufa inteligente**, um projeto de automação para monitoramento e controle de estufas usando ESP32 e IoT.  
 
 📌 **[To-Do List em PHP](https://github.com/RTeixe0/todo-list)**
+
+
 🔹 **Lista de tarefas simples, funcional e responsiva, desenvolvida com PHP e MySQL. Permite adicionar, marcar como concluída e excluir tarefas com uma interface amigável.**
 
 
