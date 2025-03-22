@@ -30,7 +30,6 @@
 
 📌 **[To-Do List em PHP](https://github.com/RTeixe0/todo-list)**
 
-
 🔹 **Lista de tarefas simples, funcional e responsiva, desenvolvida com PHP e MySQL. Permite adicionar, marcar como concluída e excluir tarefas com uma interface amigável.**
 
 
