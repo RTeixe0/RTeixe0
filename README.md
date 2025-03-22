@@ -28,6 +28,10 @@
 📌 **[Smart Grow ESP32](https://github.com/RTeixe0/Smart-Grow_ESP32)**  
 🔹 **Minha estufa inteligente**, um projeto de automação para monitoramento e controle de estufas usando ESP32 e IoT.  
 
+📌 **[To-Do List em PHP](https://github.com/RTeixe0/todo-list)**
+🔹 **Lista de tarefas simples, funcional e responsiva, desenvolvida com PHP e MySQL. Permite adicionar, marcar como concluída e excluir tarefas com uma interface amigável.**
+
+
 🛠️ *Mais projetos em breve...*  
 
 
@@ -56,7 +60,7 @@
 ### 📫 **Onde me encontrar**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/renan-teixeira-89b348150/)  
-📌 **Sempre aberto a novas conexões e oportunidades!** 🚀  
+📌 **Aberto a novas conexões e oportunidades!** 🚀  
 
 ---
 
