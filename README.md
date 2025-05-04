@@ -16,7 +16,7 @@
 ### 🛠️ **Tecnologias que estudo & pratico**  
 💡 Explorando diferentes áreas da programação, incluindo:  
 
-- ⚡ **Linguagens**: PHP, Python, C, SQL 
+- ⚡ **Linguagens**: PHP, Python, C++, SQL 
 - 🌍 **Web**: HTML, CSS, JavaScript
 - 🔥 **IoT & Automação**: ESP32, Arduino  
 - 🛠️ **Outros**: Git & GitHub  
