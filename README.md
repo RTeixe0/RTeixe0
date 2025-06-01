@@ -1,6 +1,6 @@
 # 👋 Olá, bem-vindo ao meu GitHub! 🚀
 
-🧪 TTécnico de laboratório em transição para a tecnologia, apaixonado por resolver problemas com código na prática.
+🧪 Técnico de laboratório em transição para a tecnologia, apaixonado por resolver problemas com código na prática.
 
 ---
 
