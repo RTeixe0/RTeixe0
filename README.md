@@ -29,7 +29,7 @@
 ## 🚀 Projetos em Destaque
 
 ### 🔌 [Smart Grow ESP32](https://github.com/RTeixe0/Smart-Grow_ESP32)
-Automação de estufas usando ESP32 e sensores — MVP funcional para controle remoto de irrigação e iluminação.
+Automação de estufas usando ESP32 e sensores — MVP funcional para controle remoto de ventilação e iluminação.
 
 ### 💸 [Sistema de Controle Financeiro](https://github.com/RTeixe0/controle-financeiro)
 App fullstack com autenticação JWT, gestão de despesas, ativos e dívidas. MongoDB + Node.js + Next.js.
