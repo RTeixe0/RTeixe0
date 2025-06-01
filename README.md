@@ -1,72 +1,53 @@
-<h1 align="center">👋 Olá, bem-vindo ao meu GitHub! 🚀</h1>
+# 👋 Olá, bem-vindo ao meu GitHub! 🚀
 
-<p align="center">
-  Técnico de laboratório migrando para o mundo da tecnologia! 💻  
-</p>
+🧪 Técnico de laboratório migrando para o mundo da tecnologia, apaixonado por resolver problemas com código.
 
 ---
 
-### 🔥 Sobre mim  
-💻 **Estudante de Desenvolvimento de Software** (3º ano) em transição de carreira.  
-🚀 Explorando diferentes áreas da tecnologia e criando projetos para aprender.  
-🛠️ Buscando minha **primeira oportunidade como programador**.  
+## 🔎 Sobre mim
+
+🎓 Estudante de Desenvolvimento de Software (último ano)  
+🛠️ Em transição de carreira, aplicando na prática tudo que aprendo  
+📚 Curioso por natureza — aprendendo desenvolvimento web e automações com IoT  
+💼 Buscando minha primeira oportunidade profissional na área tech  
 
 ---
 
-### 🛠️ **Tecnologias que estudo & pratico**  
-💡 Explorando diferentes áreas da programação, incluindo:  
+## 🧠 Tecnologias que estudo e pratico
 
-- ⚡ **Linguagens**: PHP, Python, C++, SQL 
-- 🌍 **Web**: HTML, CSS, JavaScript
-- 🔥 **IoT & Automação**: ESP32, Arduino  
-- 🛠️ **Outros**: Git & GitHub  
+- 📦 Back-end: PHP, JavaScript, TypeScript, Express
+- 🌐 Front-end: HTML, CSS, JavaScript (React em aprendizado)
+- 🧰 Banco de Dados: MongoDB, MySQL, Firestore
+- 🔐 Autenticação: JWT, Firebase Auth
+- 🤖 IoT e Automação: ESP32, Arduino
+- 🛠️ Outros: Git, GitHub, Docker (básico)
 
----
-
-### 🚀 **Projetos em Destaque**  
-
-📌 **[Smart Grow ESP32](https://github.com/RTeixe0/Smart-Grow_ESP32)**
-
-🔹 **Projeto de automação para monitoramento e controle de estufas usando ESP32 e IoT.**
-
-
-
-
-📌 **[To-Do List em PHP](https://github.com/RTeixe0/todo-list)**
-
-🔹 **Lista de tarefas simples, funcional e responsiva, desenvolvida com PHP e MySQL. Permite adicionar, marcar como concluída e excluir tarefas com uma interface amigável.**
-
-
-🛠️ *Mais projetos em breve...*  
-
-
-<!-- 
----
-
-### 📊 Meu GitHub em Números  
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=RTeixe0&show_icons=true&theme=tokyonight&count_private=true">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=RTeixe0&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RTeixe0&theme=tokyonight">
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RTeixe0&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RTeixe0&theme=tokyonight">
-</p>
-
--->
----
-
-### 📫 **Onde me encontrar**  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/renan-teixeira-89b348150/)  
-📌 **Aberto a novas conexões e oportunidades!** 🚀  
+> Ainda não domino tudo, mas aprendo rápido e boto a mão na massa sem medo.
 
 ---
 
-<h3 align="center">🚀 Sempre aprendendo e evoluindo! 🚀</h3>
+## 🚀 Projetos em Destaque
+
+### 🔌 [Smart Grow ESP32](https://github.com/RTeixe0/Smart-Grow_ESP32)
+Automação de estufas usando ESP32 e sensores — MVP funcional para controle remoto de irrigação e iluminação.
+
+### 💸 [Sistema de Controle Financeiro](https://github.com/RTeixe0/controle-financeiro)
+App fullstack com autenticação JWT, gestão de despesas, ativos e dívidas. MongoDB + Node.js + Next.js.
+
+### 🎫 [API para Eventos APAE](https://github.com/RTeixe0/apae-backend)
+API REST em Node.js com Firebase Auth e Firestore, criada para gerenciar eventos e ingressos com QR Code.
+
+---
+
+## 🌐 Onde me encontrar
+
+[![Linktree](https://img.shields.io/badge/-Linktree-000?style=for-the-badge&logo=linktree)](https://linktr.ee/rteixe)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel)](https://renanteixeira.free.nf)
+
+📬 Aberto a freelas, vagas júnior e oportunidades de estágio!
+
+---
+
+## ✨ “Codar é transformar ideias em soluções reais.”
+
+📈 Sempre aprendendo. Sempre evoluindo. Sempre de olho no próximo desafio.
