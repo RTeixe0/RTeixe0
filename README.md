@@ -6,10 +6,11 @@
 
 ## 🔎 Sobre mim
 
-🎓 Estudante de Desenvolvimento de Software Multiplataforma (último ano - FATEC)
+🎓 Estudante de Desenvolvimento de Software Multiplataforma (último ano - FATEC)  
 🛠️ Em transição de carreira, aplicando na prática tudo que aprendo  
 📚 Curioso por natureza — aprendendo desenvolvimento web e automações com IoT  
-💼 Buscando minha primeira oportunidade profissional na área tech  
+💼 Buscando minha primeira oportunidade profissional na área tech
+
 
 ---
 
