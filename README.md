@@ -45,7 +45,6 @@ API REST em Node.js com Firebase (Auth + Firestore + Storage) para gerenciamento
 [![Linktree](https://img.shields.io/badge/-Linktree-000?style=for-the-badge&logo=linktree)](https://linktr.ee/rteixe)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel)](https://renanteixeira.free.nf)
 
-📬 Aberto a freelas, vagas júnior e oportunidades de estágio!
 
 ---
 
